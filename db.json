@@ -1,1 +1,16 @@
-{ "id": 11, "name": "Cima SDM 500, Depo A", "customer": { "id": 121, "name": "Westwind Distribution", "type": 0 }, "cit": null, "service": { "id": 137, "name": "Bankovní Technika", "type": 2 } }
+{   "id":11,
+   "name":"Cima SDM 500, Depo A",
+   "customer":{
+      "id":121,
+      "name":"Westwind Distribution",
+      "type":0
+   
+},
+   "cit":null,
+   "service":{
+      "id":137,
+      "name":"Bankovní Technika",
+      "type":2
+   
+}
+}
